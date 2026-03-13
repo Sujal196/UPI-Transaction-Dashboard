@@ -89,7 +89,7 @@ Shows the percentage of successfully completed transactions. A higher success ra
 
 ### Failure Rate – **20%**
 
-Represents the percentage of transactions that failed due to reasons such as network issues, insufficient balance, or system errors. Monitoring this metric helps identify **payment infrastructure bottlenecks**.
+Represents the percentage of transactions that failed due to reasons such as network issues, insufficient balance or system errors. Monitoring this metric helps identify **payment infrastructure bottlenecks**.
 
 # Dashboard Snapshot
 

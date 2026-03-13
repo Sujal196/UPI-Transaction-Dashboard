@@ -5,13 +5,13 @@
 
 # Problem Statement
 
-The rapid growth of **Unified Payments Interface (UPI)** has transformed digital payment ecosystems by enabling fast, secure, and real-time financial transactions across banking platforms. With the increasing volume of transactions across multiple banks, devices, and payment channels, organizations require advanced analytical tools to monitor transaction behavior, identify operational inefficiencies, and optimize payment infrastructure.
+The rapid growth of **Unified Payments Interface (UPI)** has transformed digital payment ecosystems by enabling fast, secure, and real-time financial transactions across banking platforms. With the increasing volume of transactions across multiple banks, devices, and payment channels, organizations require advanced analytical tools to monitor transaction behavior, identify operational inefficiencies and optimize payment infrastructure.
 
-The **UPI Transaction Dashboard** provides a comprehensive analytical view of digital payment activities by monitoring key metrics such as total transactions, transaction value, payment methods, transaction success rate, device usage, and demographic distribution.
+The **UPI Transaction Dashboard** provides a comprehensive analytical view of digital payment activities by monitoring key metrics such as total transactions, transaction value, payment methods, transaction success rate, device usage and demographic distribution.
 
-This dashboard converts raw transactional records into **interactive business intelligence insights**, allowing stakeholders to evaluate payment trends, analyze system performance, detect transaction failures, and understand user behavior across different cities, age groups, and device types.
+This dashboard converts raw transactional records into interactive business intelligence insights, allowing stakeholders to evaluate payment trends, analyze system performance, detect transaction failures and understand user behavior across different cities, age groups and device types.
 
-Through interactive filtering and visual analytics, the report supports **data-driven decision-making, operational monitoring, and digital payment ecosystem optimization**.
+Through interactive filtering and visual analytics, the report supports data-driven decision-making, operational monitoring and digital payment ecosystem optimization.
 
 # Dataset Overview
 
@@ -38,7 +38,7 @@ The dataset used for this dashboard consists of structured **UPI transaction rec
 * Merchant Name
 * Purpose
 
-The data was imported into **Power BI Desktop**, transformed using **Power Query**, and structured through proper **data modeling** to enable efficient analytics and high-performance visualizations.
+The data was imported into **Power BI Desktop**, transformed using **Power Query** and structured through proper **data modeling** to enable efficient analytics and high-performance visualizations.
 
 # Steps Followed
 
@@ -48,22 +48,22 @@ The data was imported into **Power BI Desktop**, transformed using **Power Query
 * **Step 2:** Opened **Power Query Editor** to perform data cleaning and validation.
 * **Step 3:** Enabled **Column Quality, Column Distribution, and Column Profile** to identify anomalies.
 * **Step 4:** Enabled **column profiling for the entire dataset** instead of the default sample rows.
-* **Step 5:** Corrected data types for fields such as Amount, Transaction Date, and Customer Age.
+* **Step 5:** Corrected data types for fields such as Amount, Transaction Date and Customer Age.
 * **Step 6:** Handled missing values and validated categorical fields like Payment Method and Device Type.
 * **Step 7:** Created a **Month-Year column** to enable time-based trend analysis.
 
 ## Data Modeling
 
 * **Step 8:** Structured the dataset in a **star schema format** for optimized reporting.
-* **Step 9:** Created calculated measures using **DAX** for core metrics such as Total Transactions, Total Amount, Success Rate, and Failure Rate.
+* **Step 9:** Created calculated measures using **DAX** for core metrics such as Total Transactions, Total Amount, Success Rate and Failure Rate.
 * **Step 10:** Implemented calculated fields for **Age Groups** (Young Adults, Adults, Elders) to support demographic analysis.
 * **Step 11:** Created a **sorting column for Month-Year** to ensure proper chronological ordering in time-based visuals.
 
 ## Visualization Development
 
 * **Step 12:** Designed a professional dashboard layout using a **consistent UI theme and color palette** aligned with digital payment branding.
-* **Step 13:** Added **KPI cards** to summarize total transactions, total transaction value, success rate, and failure rate.
-* **Step 14:** Implemented **interactive slicers** to filter transactions by payment method, transaction status, device type, city, transaction type, and transaction date.
+* **Step 13:** Added **KPI cards** to summarize total transactions, total transaction value, success rate and failure rate.
+* **Step 14:** Implemented **interactive slicers** to filter transactions by payment method, transaction status, device type, city, transaction type and transaction date.
 * **Step 15:** Created a **currency distribution pie chart** to analyze transaction value across multiple currencies.
 * **Step 16:** Developed a **line chart visualization** to compare total amount by payment method.
 * **Step 17:** Added a **donut chart** to analyze distribution between payment transfers and payments.

@@ -95,12 +95,12 @@ Represents the percentage of transactions that failed due to reasons such as net
 
 ## UPI Transaction Table View
 
-![UPI Transaction Table](Add Image Link Here)
+![UPI Transaction Table](https://github.com/user-attachments/assets/d3e6ec82-d818-49e9-ab16-af9a79b7c2db)
 
 
 ## UPI Transaction Analytics Overview
 
-![UPI Transaction Dashboard](Add Image Link Here)
+![UPI Transaction Dashboard](https://github.com/user-attachments/assets/a9352052-d784-4734-898a-aece46eb0c70)
 
 # Gender-based Transaction Analysis
 

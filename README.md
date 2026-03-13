@@ -5,7 +5,7 @@
 
 # Problem Statement
 
-The rapid growth of **Unified Payments Interface (UPI)** has transformed digital payment ecosystems by enabling fast, secure, and real-time financial transactions across banking platforms. With the increasing volume of transactions across multiple banks, devices, and payment channels, organizations require advanced analytical tools to monitor transaction behavior, identify operational inefficiencies and optimize payment infrastructure.
+The rapid growth of **Unified Payments Interface (UPI)** has transformed digital payment ecosystems by enabling fast, secure and real-time financial transactions across banking platforms. With the increasing volume of transactions across multiple banks, devices and payment channels, organizations require advanced analytical tools to monitor transaction behavior, identify operational inefficiencies and optimize payment infrastructure.
 
 The **UPI Transaction Dashboard** provides a comprehensive analytical view of digital payment activities by monitoring key metrics such as total transactions, transaction value, payment methods, transaction success rate, device usage and demographic distribution.
 
@@ -15,7 +15,7 @@ Through interactive filtering and visual analytics, the report supports data-dri
 
 # Dataset Overview
 
-The dataset used for this dashboard consists of structured **UPI transaction records** containing payment details, customer demographics, device information, and transaction outcomes.
+The dataset used for this dashboard consists of structured **UPI transaction records** containing payment details, customer demographics, device information and transaction outcomes.
 
 ### Key attributes included in the dataset:
 

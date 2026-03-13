@@ -235,7 +235,7 @@ The dashboard reveals several important operational and strategic insights:
 
 The **UPI Transaction Power BI Dashboard** provides a powerful analytical platform for monitoring and understanding digital payment activity within the UPI ecosystem.
 
-By integrating transaction data, payment methods, banking relationships, demographic analysis, and system performance metrics, the dashboard enables organizations to:
+By integrating transaction data, payment methods, banking relationships, demographic analysis and system performance metrics, the dashboard enables organizations to:
 
 * Monitor **digital payment system performance**
 * Identify **transaction failures and operational inefficiencies**

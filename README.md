@@ -15,7 +15,7 @@ Through interactive filtering and visual analytics, the report supports data-dri
 
 # Dataset Overview
 
-The dataset used for this dashboard consists of structured **UPI transaction records** containing payment details, customer demographics, device information and transaction outcomes.
+The dataset used for this dashboard consists of structured UPI transaction records containing payment details, customer demographics, device information and transaction outcomes.
 
 ### Key attributes included in the dataset:
 
@@ -38,7 +38,7 @@ The dataset used for this dashboard consists of structured **UPI transaction rec
 * Merchant Name
 * Purpose
 
-The data was imported into **Power BI Desktop**, transformed using **Power Query** and structured through proper **data modeling** to enable efficient analytics and high-performance visualizations.
+The data was imported into **Power BI Desktop**, transformed using **Power Query** and structured through proper data modeling to enable efficient analytics and high-performance visualizations.
 
 # Steps Followed
 

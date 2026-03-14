@@ -77,19 +77,19 @@ The dashboard provides high-level summary metrics to help stakeholders quickly a
 
 ### Total Transactions – **20K**
 
-Represents the total number of UPI transactions processed within the dataset. This metric reflects the **overall transaction volume** handled by the payment ecosystem.
+Represents the total number of UPI transactions processed within the dataset. This metric reflects the overall transaction volume handled by the payment ecosystem.
 
 ### Total Transaction Amount – **19.87M**
 
-Indicates the total financial value transferred across all UPI transactions. This KPI measures **transaction throughput and payment system utilization**.
+Indicates the total financial value transferred across all UPI transactions. This KPI measures transaction throughput and payment system utilization.
 
 ### Success Rate – **80%**
 
-Shows the percentage of successfully completed transactions. A higher success rate indicates **efficient transaction processing and system reliability**.
+Shows the percentage of successfully completed transactions. A higher success rate indicates efficient transaction processing and system reliability.
 
 ### Failure Rate – **20%**
 
-Represents the percentage of transactions that failed due to reasons such as network issues, insufficient balance or system errors. Monitoring this metric helps identify **payment infrastructure bottlenecks**.
+Represents the percentage of transactions that failed due to reasons such as network issues, insufficient balance or system errors. Monitoring this metric helps identify payment infrastructure bottlenecks.
 
 # Dashboard Snapshot
 

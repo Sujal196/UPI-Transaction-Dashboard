@@ -3,7 +3,7 @@
 
 ### Dashboard Link : *(To be updated after Power BI Service publication)*
 
-# Problem Statement
+## Problem Statement
 
 The rapid growth of **Unified Payments Interface (UPI)** has transformed digital payment ecosystems by enabling fast, secure and real-time financial transactions across banking platforms. With the increasing volume of transactions across multiple banks, devices and payment channels, organizations require advanced analytical tools to monitor transaction behavior, identify operational inefficiencies and optimize payment infrastructure.
 
@@ -13,7 +13,7 @@ This dashboard converts raw transactional records into interactive business inte
 
 Through interactive filtering and visual analytics, the report supports data-driven decision-making, operational monitoring and digital payment ecosystem optimization.
 
-# Dataset Overview
+## Dataset Overview
 
 The dataset used for this dashboard consists of structured UPI transaction records containing payment details, customer demographics, device information and transaction outcomes.
 
@@ -40,30 +40,30 @@ The dataset used for this dashboard consists of structured UPI transaction recor
 
 The data was imported into **Power BI Desktop**, transformed using **Power Query** and structured through proper data modeling to enable efficient analytics and high-performance visualizations.
 
-# Steps Followed
+## Steps Followed
 
-## Data Preparation
+### Data Preparation
 
 * **Step 1:** Imported the UPI transaction dataset into **Power BI Desktop**.
 * **Step 2:** Opened **Power Query Editor** to perform data cleaning and validation.
-* **Step 3:** Enabled **Column Quality, Column Distribution, and Column Profile** to identify anomalies.
-* **Step 4:** Enabled **column profiling for the entire dataset** instead of the default sample rows.
+* **Step 3:** Enabled column quality, column distribution and column profile to identify anomalies.
+* **Step 4:** Enabled column profiling for the entire dataset instead of the default sample rows.
 * **Step 5:** Corrected data types for fields such as Amount, Transaction Date and Customer Age.
 * **Step 6:** Handled missing values and validated categorical fields like Payment Method and Device Type.
-* **Step 7:** Created a **Month-Year column** to enable time-based trend analysis.
+* **Step 7:** Created a **Month-Year** column to enable time-based trend analysis.
 
-## Data Modeling
+### Data Modeling
 
 * **Step 8:** Structured the dataset in a star schema format for optimized reporting.
 * **Step 9:** Created calculated measures using **DAX** for core metrics such as Total Transactions, Total Amount, Success Rate and Failure Rate.
 * **Step 10:** Implemented calculated fields for **Age Groups** (Young Adults, Adults, Elders) to support demographic analysis.
-* **Step 11:** Created a **sorting column for Month-Year** to ensure proper chronological ordering in time-based visuals.
+* **Step 11:** Created a sorting column for **Month-Year** to ensure proper chronological ordering in time-based visuals.
 
-## Visualization Development
+### Visualization Development
 
 * **Step 12:** Designed a professional dashboard layout using a consistent UI theme and color palette aligned with digital payment branding.
 * **Step 13:** Added **KPI cards** to summarize total transactions, total transaction value, success rate and failure rate.
-* **Step 14:** Implemented **interactive slicers** to filter transactions by payment method, transaction status, device type, city, transaction type and transaction date.
+* **Step 14:** Implemented interactive slicers to filter transactions by payment method, transaction status, device type, city, transaction type and transaction date.
 * **Step 15:** Created a currency distribution pie chart to analyze transaction value across multiple currencies.
 * **Step 16:** Developed a line chart visualization to compare total amount by payment method.
 * **Step 17:** Added a donut chart to analyze distribution between payment transfers and payments.
@@ -71,7 +71,7 @@ The data was imported into **Power BI Desktop**, transformed using **Power Query
 * **Step 19:** Created a scatter plot with play axis to analyze the relationship between transaction amount and remaining balance across age groups over time.
 * **Step 20:** Built a transaction table visualization containing detailed transactional records for granular analysis.
 
-# Key Performance Indicators (KPIs)
+## Key Performance Indicators (KPIs)
 
 The dashboard provides high-level summary metrics to help stakeholders quickly assess digital transaction performance.
 
@@ -91,18 +91,18 @@ Shows the percentage of successfully completed transactions. A higher success ra
 
 Represents the percentage of transactions that failed due to reasons such as network issues, insufficient balance or system errors. Monitoring this metric helps identify payment infrastructure bottlenecks.
 
-# Dashboard Snapshot
+## Dashboard Snapshot
 
-## UPI Transaction Table View
+### UPI Transaction Table View
 
 ![UPI Transaction Table](https://github.com/user-attachments/assets/d3e6ec82-d818-49e9-ab16-af9a79b7c2db)
 
 
-## UPI Transaction Analytics Overview
+### UPI Transaction Analytics Overview
 
 ![UPI Transaction Dashboard](https://github.com/user-attachments/assets/a9352052-d784-4734-898a-aece46eb0c70)
 
-# Gender-based Transaction Analysis
+## Gender-based Transaction Analysis
 
 The dashboard highlights transaction value distribution between male and female users.
 
@@ -116,7 +116,7 @@ The dashboard highlights transaction value distribution between male and female 
 
 The analysis shows a balanced transaction contribution between genders, indicating broad adoption of digital payments across demographics.
 
-# Total Amount by Currency
+## Total Amount by Currency
 
 A pie chart visualization illustrates transaction distribution across different currencies.
 
@@ -135,7 +135,7 @@ Key insights:
 
 This visualization helps stakeholders evaluate global transaction participation and currency utilization patterns.
 
-# Total Amount by Payment Method
+## Total Amount by Payment Method
 
 A line chart visualization compares the total transaction value across major payment methods:
 
@@ -151,7 +151,7 @@ A line chart visualization compares the total transaction value across major pay
 
 This insight helps payment providers understand customer preference for payment authentication channels.
 
-# Total Amount by Transaction Type
+## Total Amount by Transaction Type
 
 A donut chart visualization categorizes transaction value based on transaction type.
 
@@ -167,7 +167,7 @@ A donut chart visualization categorizes transaction value based on transaction t
 
 This analysis highlights how users leverage UPI for both peer-to-peer transfers and merchant payments.
 
-# Bank Transaction Flow Analysis
+## Bank Transaction Flow Analysis
 
 The dashboard includes a bank-to-bank transaction flow visualization showing how funds move between sending and receiving banks.
 
@@ -186,7 +186,7 @@ Banks included in the analysis:
 
 This visualization supports bank performance monitoring and payment infrastructure analysis.
 
-# Transaction Behavior by Age Group
+## Transaction Behavior by Age Group
 
 A scatter plot visualization analyzes the relationship between transaction amount and remaining account balance across different customer age groups over time.
 
@@ -204,7 +204,7 @@ Age groups included:
 
 The play axis allows stakeholders to observe transaction behavior evolution over time, enabling dynamic trend analysis.
 
-# Interactive Filters
+## Interactive Filters
 
 The dashboard includes multiple slicers that allow users to explore the data dynamically.
 
@@ -219,7 +219,7 @@ The dashboard includes multiple slicers that allow users to explore the data dyn
 
 These filters allow analysts and decision-makers to drill down into specific transaction segments and perform targeted analysis.
 
-# Key Business Insights
+## Key Business Insights
 
 The dashboard reveals several important operational and strategic insights:
 
@@ -231,7 +231,7 @@ The dashboard reveals several important operational and strategic insights:
 * Transaction volumes remain distributed across multiple currencies, indicating potential cross-border transaction participation.
 
   
-# Conclusion
+## Conclusion
 
 The **UPI Transaction Power BI Dashboard** provides a powerful analytical platform for monitoring and understanding digital payment activity within the UPI ecosystem.
 

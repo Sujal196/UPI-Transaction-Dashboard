@@ -54,22 +54,22 @@ The data was imported into **Power BI Desktop**, transformed using **Power Query
 
 ## Data Modeling
 
-* **Step 8:** Structured the dataset in a **star schema format** for optimized reporting.
+* **Step 8:** Structured the dataset in a star schema format for optimized reporting.
 * **Step 9:** Created calculated measures using **DAX** for core metrics such as Total Transactions, Total Amount, Success Rate and Failure Rate.
 * **Step 10:** Implemented calculated fields for **Age Groups** (Young Adults, Adults, Elders) to support demographic analysis.
 * **Step 11:** Created a **sorting column for Month-Year** to ensure proper chronological ordering in time-based visuals.
 
 ## Visualization Development
 
-* **Step 12:** Designed a professional dashboard layout using a **consistent UI theme and color palette** aligned with digital payment branding.
+* **Step 12:** Designed a professional dashboard layout using a consistent UI theme and color palette aligned with digital payment branding.
 * **Step 13:** Added **KPI cards** to summarize total transactions, total transaction value, success rate and failure rate.
 * **Step 14:** Implemented **interactive slicers** to filter transactions by payment method, transaction status, device type, city, transaction type and transaction date.
-* **Step 15:** Created a **currency distribution pie chart** to analyze transaction value across multiple currencies.
-* **Step 16:** Developed a **line chart visualization** to compare total amount by payment method.
-* **Step 17:** Added a **donut chart** to analyze distribution between payment transfers and payments.
+* **Step 15:** Created a currency distribution pie chart to analyze transaction value across multiple currencies.
+* **Step 16:** Developed a line chart visualization to compare total amount by payment method.
+* **Step 17:** Added a donut chart to analyze distribution between payment transfers and payments.
 * **Step 18:** Designed a **Sankey-style flow visualization** to display transaction flow between sending and receiving banks.
-* **Step 19:** Created a **scatter plot with play axis** to analyze the relationship between transaction amount and remaining balance across age groups over time.
-* **Step 20:** Built a **transaction table visualization** containing detailed transactional records for granular analysis.
+* **Step 19:** Created a scatter plot with play axis to analyze the relationship between transaction amount and remaining balance across age groups over time.
+* **Step 20:** Built a transaction table visualization containing detailed transactional records for granular analysis.
 
 # Key Performance Indicators (KPIs)
 

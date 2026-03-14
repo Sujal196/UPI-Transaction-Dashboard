@@ -162,14 +162,14 @@ A **donut chart visualization** categorizes transaction value based on transacti
 
 ### Key Findings
 
-* **Transfers account for approximately 50% of the total transaction value.**
+* Transfers account for approximately 50% of the total transaction value.
 * Payment-based transactions contribute nearly the remaining share.
 
-This analysis highlights how users leverage UPI for **both peer-to-peer transfers and merchant payments**.
+This analysis highlights how users leverage UPI for both peer-to-peer transfers and merchant payments.
 
 # Bank Transaction Flow Analysis
 
-The dashboard includes a **bank-to-bank transaction flow visualization** showing how funds move between sending and receiving banks.
+The dashboard includes a bank-to-bank transaction flow visualization showing how funds move between sending and receiving banks.
 
 Banks included in the analysis:
 
@@ -182,13 +182,13 @@ Banks included in the analysis:
 
 * Major transaction flows occur between large banking institutions.
 * Transaction value appears balanced across sending and receiving banks.
-* Banks with higher transaction throughput indicate stronger **UPI network participation**.
+* Banks with higher transaction throughput indicate stronger UPI network participation.
 
-This visualization supports **bank performance monitoring and payment infrastructure analysis**.
+This visualization supports bank performance monitoring and payment infrastructure analysis.
 
 # Transaction Behavior by Age Group
 
-A **scatter plot visualization** analyzes the relationship between **transaction amount and remaining account balance** across different customer age groups over time.
+A scatter plot visualization analyzes the relationship between transaction amount and remaining account balance across different customer age groups over time.
 
 Age groups included:
 
@@ -198,11 +198,11 @@ Age groups included:
 
 ### Observations
 
-* **Young adults exhibit higher transaction activity across months.**
+* Young adults exhibit higher transaction activity across months.
 * Adult users maintain consistent transaction patterns.
 * Elderly users demonstrate lower transaction frequency but moderate transaction value.
 
-The play axis allows stakeholders to observe **transaction behavior evolution over time**, enabling dynamic trend analysis.
+The play axis allows stakeholders to observe transaction behavior evolution over time, enabling dynamic trend analysis.
 
 # Interactive Filters
 
@@ -217,18 +217,18 @@ The dashboard includes multiple **slicers** that allow users to explore the data
 * Transaction Type
 * Transaction Date
 
-These filters allow analysts and decision-makers to **drill down into specific transaction segments** and perform targeted analysis.
+These filters allow analysts and decision-makers to drill down into specific transaction segments and perform targeted analysis.
 
 # Key Business Insights
 
 The dashboard reveals several important operational and strategic insights:
 
-* The UPI ecosystem processed **20K transactions totaling 19.87M in value**, demonstrating significant digital payment activity.
-* Transaction success rate remains strong at **80%**, though monitoring the **20% failure rate** is critical for improving system reliability.
-* **UPI ID is the most frequently used payment method**, indicating strong user preference for direct identifier-based payments.
-* Transaction flows between **major banks dominate the payment network**, highlighting their role in facilitating digital transactions.
-* **Young adult users contribute a large share of transaction activity**, reflecting high digital payment adoption among younger demographics.
-* Transaction volumes remain distributed across multiple currencies, indicating potential **cross-border transaction participation**.
+* The UPI ecosystem processed 20K transactions totaling 19.87M in value, demonstrating significant digital payment activity.
+* Transaction success rate remains strong at 80%, though monitoring the 20% failure rate is critical for improving system reliability.
+* UPI ID is the most frequently used payment method, indicating strong user preference for direct identifier-based payments.
+* Transaction flows between major banks dominate the payment network, highlighting their role in facilitating digital transactions.
+* Young adult users contribute a large share of transaction activity, reflecting high digital payment adoption among younger demographics.
+* Transaction volumes remain distributed across multiple currencies, indicating potential cross-border transaction participation.
 
   
 # Conclusion
@@ -237,10 +237,10 @@ The **UPI Transaction Power BI Dashboard** provides a powerful analytical platfo
 
 By integrating transaction data, payment methods, banking relationships, demographic analysis and system performance metrics, the dashboard enables organizations to:
 
-* Monitor **digital payment system performance**
-* Identify **transaction failures and operational inefficiencies**
-* Understand **customer payment behavior**
-* Analyze **banking network transaction flows**
-* Improve **digital payment infrastructure and user experience**
+* Monitor digital payment system performance.
+* Identify transaction failures and operational inefficiencies.
+* Understand customer payment behavior.
+* Analyze banking network transaction flows.
+* Improve digital payment infrastructure and user experience.
 
-Overall, the dashboard supports **data-driven strategic decision-making and financial transaction monitoring**, making it an essential tool for organizations operating in the digital payments landscape.
+Overall, the dashboard supports data-driven strategic decision-making and financial transaction monitoring, making it an essential tool for organizations operating in the digital payments landscape.

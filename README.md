@@ -114,11 +114,11 @@ The dashboard highlights transaction value distribution between male and female 
 
 **Total Transaction Amount:** 9,927,901.15
 
-The analysis shows a **balanced transaction contribution between genders**, indicating broad adoption of digital payments across demographics.
+The analysis shows a balanced transaction contribution between genders, indicating broad adoption of digital payments across demographics.
 
 # Total Amount by Currency
 
-A **pie chart visualization** illustrates transaction distribution across different currencies.
+A pie chart visualization illustrates transaction distribution across different currencies.
 
 Currencies analyzed include:
 
@@ -133,11 +133,11 @@ Key insights:
 * International currencies indicate cross-border payment activity.
 * Transaction value remains evenly distributed across currency categories.
 
-This visualization helps stakeholders evaluate **global transaction participation and currency utilization patterns**.
+This visualization helps stakeholders evaluate global transaction participation and currency utilization patterns.
 
 # Total Amount by Payment Method
 
-A **line chart visualization** compares the total transaction value across major payment methods:
+A line chart visualization compares the total transaction value across major payment methods:
 
 * Phone Number
 * QR Code
@@ -145,15 +145,15 @@ A **line chart visualization** compares the total transaction value across major
 
 ### Key Observations
 
-* **UPI ID transactions contribute the highest total payment value.**
-* **QR Code transactions show slightly lower transaction volume compared to other methods.**
+* UPI ID transactions contribute the highest total payment value.
+* QR Code transactions show slightly lower transaction volume compared to other methods.
 * Phone number payments maintain consistent usage across transactions.
 
-This insight helps payment providers understand **customer preference for payment authentication channels**.
+This insight helps payment providers understand customer preference for payment authentication channels.
 
 # Total Amount by Transaction Type
 
-A **donut chart visualization** categorizes transaction value based on transaction type.
+A donut chart visualization categorizes transaction value based on transaction type.
 
 ### Transaction Categories
 
@@ -206,7 +206,7 @@ The play axis allows stakeholders to observe transaction behavior evolution over
 
 # Interactive Filters
 
-The dashboard includes multiple **slicers** that allow users to explore the data dynamically.
+The dashboard includes multiple slicers that allow users to explore the data dynamically.
 
 ### Available Filters
 
